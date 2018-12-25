@@ -1,0 +1,26 @@
+{
+  "name": "kp-sd",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "^4.16.4",
+    "moment": "^2.23.0",
+    "momentjs": "^2.0.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "nodemon": "^1.18.4",
+    "random-string": "^0.2.0",
+    "randomstring": "^1.1.5",
+    "serve-favicon": "~2.4.5"
+  }
+}
